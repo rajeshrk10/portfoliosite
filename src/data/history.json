@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Junior Developer",
+    "organisation": "Digi Source Solutions",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Developed and maintained web applications using React.js, enhancing user interfaces and improving user experience.",
+      "Integrated RESTful APIs and managed application state using Redux, resulting in a 15% improvement in data retrieval efficiency.",
+      "Optimized application performance by identifying and resolving performance bottlenecks, leading to a 20% increase in page load speed."
+    ],
+    "imageSrc": "history/digisource.png"
+  }
+]
